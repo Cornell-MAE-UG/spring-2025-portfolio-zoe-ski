@@ -18,4 +18,3 @@ In order to test our blade design we gathered data to determine the measured per
 
 ![Photo of old radio]({{ "/assets/images/Screenshot 2025-12-17 141759.png" | relative_url }}){: .inline-image-l}
 
-![Photo of old radio]({{ "/assets/images/Screenshot 2025-12-17 141909.png" | relative_url }}){: .inline-image-l}
