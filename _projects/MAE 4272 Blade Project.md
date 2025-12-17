@@ -8,7 +8,7 @@ image: /assets/images/Screenshot 2025-12-17 142052.png
 
 For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan 
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/Screenshot 2025-12-17 142052.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ahahahah
 
