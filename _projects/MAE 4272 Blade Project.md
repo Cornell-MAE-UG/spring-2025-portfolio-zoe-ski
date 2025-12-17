@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: MAE 4272 Blade Project 
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
