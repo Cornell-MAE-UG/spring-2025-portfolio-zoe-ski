@@ -1,0 +1,15 @@
+---
+layout: project
+title: MAE 4300 Boeing Discussion 
+description: Just a spaceship that I designed
+technologies: [Small Groups]
+image: /assets/images/Boeing_737_MAX_8-1.jpg
+---
+
+
+Over the course of the semester we completed a case study into the Boeing 737 Max tragedies. These tragedies were caused by flight related failures due to an unsafe and undisclosed MCAS system. This system was not caught to be problematic due to FAA oversight and certification failures as well as faulty Boeing internal procedures and politics. Unfortunately, 349 lives were lost in these failures.  As part of this we focused largely on the core issues that result in the system failure and possible prevention strategies. 
+
+Throughout the class we worked in small groups and identified five core ethical issues. The first of which is that Boeing opted to not change the pilot training which causes the flight crews to not be able to function the MCAS system. The next was that there was a significant gap and lack of transparency between Boeing, the pilots, the airlines and the public. The third ethical issue was that Boeing prioritized competitive advantages over the public trust and safety. The fourth was that engineers failed or were unable to raise concerns about the MCAS safety flaws. The last issue identified was that the economic incentives outweighed the passenger safety. 
+
+After these key issues were identified we further increased our understanding in the situation by discussing the constraints that could have caused these ethical issues. The first constraint discussed was that the training costs and timelines would be significant. As part of the company's sales they promised that additional training was not needed and if it was they would pay a significant sum to the airlines. The next constraint was that there are set norms in the corporate hierarchy that would prevent open discussion or questioning of authorities. The third was that there was significant market urgency as Airbus as Boeing to production and could take a large share of the market. The fourth is that the Boeing employees might have had job security concerns and thought challenging leadership could land them in trouble. The last possible constraint was that the cooperation was not forced on innovation and engineering standards but instead was focused at a fundamental level on profits. 
+
